@@ -1,1 +1,1 @@
-This is the CSS Homework - My portfolio
+CSS Portfolio Homework 

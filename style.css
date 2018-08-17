@@ -16,8 +16,9 @@ footer{
 /* Jumbotron CSS */
 .jumbotron{
   border-radius: 0;
-  background-color: #9FBBBB;
+  background-color: rgb(224, 228, 227);
 }
+
 
 .jumbotron h1{
   font-family: "Anton", sans-serif;
@@ -26,7 +27,7 @@ footer{
 .jumbotron img{
   border-style: solid;
   border-width: 0.5rem;
-  border-color: whitesmoke;
+  border-color: rgb(222, 222, 226);
 }
 
 /* grid adjustments  */
